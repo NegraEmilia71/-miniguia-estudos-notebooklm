@@ -30,6 +30,8 @@ Atrasar parcelas impede a participação em sorteios e gera multas
 Para perfis com maior capital, o consórcio é usado para alavancagem patrimonial: adquirem-se imóveis via lances embutidos e utiliza-se o aluguel do bem para pagar as parcelas restantes
 . Para quem tem menos renda, funciona como uma "poupança forçada" para adquirir o primeiro bem sem pagar os juros abusivos do financiamento
 
+É importante destacar que é permitido o uso do FGTS para lances em consórcio imobiliario. Para outras categorias de consórcio como veículos ou serviços não se tem informação. 
+
 ## Fontes
 Aula do Primo Pobre (YouTube): https://www.youtube.com/watch?v=BtaaH5XcO1U
 Guia InfoMoney: https://www.infomoney.com.br/guias/consorcio/
