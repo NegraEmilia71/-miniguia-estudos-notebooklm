@@ -9,7 +9,7 @@ Aula do Primo Pobre (YouTube): https://www.youtube.com/watch?v=BtaaH5XcO1U
 
 Guia InfoMoney: https://www.infomoney.com.br/guias/consorcio/
 
-Panorama do Sistema de Consórcio: (PDF)
+Panorama do Sistema de Consórcio (PDF): https://www.bcb.gov.br/estabilidadefinanceira/panoramaconsorcio?ano=2024
 
 
 ## Glossário 
