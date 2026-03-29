@@ -14,10 +14,28 @@ Panorama do Sistema de Consórcio (PDF): https://www.bcb.gov.br/estabilidadefina
 
 ## Glossário 
 
-Aula do Primo Pobre (YouTube): Foca em desmistificar que consórcio é "investimento". Ele enfatiza que é uma ferramenta de planejamento e compara o custo final com o financiamento.
+Consórcio: Reunião de pessoas (físicas ou jurídicas) em um grupo com prazo e número de cotas determinados, visando a aquisição isonômica de bens ou serviços por meio de autofinanciamento
 
-Guia InfoMoney: Funciona como um manual. Explica termos como lance embutido, como usar o FGTS para imóveis e os riscos de liquidez caso você desista.
+Cota: A fração que representa a participação de cada integrante no grupo
 
-Panorama do Banco Central (PDF): Traz o "chão de fábrica" do sistema. Mostra, por exemplo, que mais de 50% dos participantes se concentram em cinco estados brasileiros e que o segmento de automóveis é o maior do país.
+Administradora: Empresa responsável por organizar e gerir os grupos, obrigatoriamente autorizada e fiscalizada pelo Banco Central
+
+Contemplação: Atribuição do crédito ao consorciado para a compra do bem, ocorrendo via sorteio ou lance
+
+Carta de Crédito: Valor disponibilizado ao contemplado para adquirir o bem ou serviço desejado
+
+Lance: Oferta de antecipação de parcelas feita pelo consorciado para tentar a contemplação imediata
+
+Lance Embutido: Modalidade de lance onde o participante utiliza parte do valor da própria carta de crédito (geralmente até 30%) para fazer a oferta
+
+Taxa de Administração: Valor pago à administradora para remunerar a gestão do grupo; não se confunde com juros
+
+Fundo Comum: Montante formado pelas parcelas pagas pelos integrantes, destinado à compra dos bens pelos contemplados
+
+Fundo de Reserva: Fundo facultativo destinado a cobrir inadimplências, despesas bancárias ou judiciais do grupo
+
+Consorciado Excluído: Membro que deixa o grupo por desistência declarada ou falta de pagamento
+
+Alienação Fiduciária: Garantia utilizada após a contemplação, onde o próprio bem adquirido fica vinculado à administradora até a quitação da dívida
 
 ## Conjunto de Prompts 
